@@ -76,3 +76,19 @@ HTML
 CSS
 
 Styling for the new elements
+
+4. User Story: services
+
+As a site visitor, I want to know what services and technologies are available through the website
+Branches
+
+    This user story was developed on a brach called boxes
+    It was merged to master when the feature was finished.
+
+HTML
+
+    section element contain 3 boxes each contain heading, image and paragraph
+
+CSS
+
+Styling for the new elements
