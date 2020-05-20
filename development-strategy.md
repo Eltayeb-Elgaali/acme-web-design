@@ -92,3 +92,19 @@ HTML
 CSS
 
 Styling for the new elements
+
+5. User Story: footer
+
+As a site visitor, I want to know if the website is protected by copy write
+Branches
+
+    This user story was developed on a brach called footer
+    It was merged to master when the feature was finished.
+
+HTML
+
+    section element contain  paragraph with copy write
+
+CSS
+
+Styling for the new elements
