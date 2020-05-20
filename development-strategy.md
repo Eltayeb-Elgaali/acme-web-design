@@ -66,6 +66,7 @@ Styling for the section element and his inner elements
 ## 3. User Story: news
 
 As a site visitor, I want to receive news from the website
+
 ### Branches
 
     This user story was developed on a brach called newsletter
@@ -75,6 +76,7 @@ As a site visitor, I want to receive news from the website
 
     form inside section element 
     with input type email and button
+    
 ### CSS
 
 Styling for the new elements
