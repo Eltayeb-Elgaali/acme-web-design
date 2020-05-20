@@ -73,9 +73,12 @@ Styling for the section element and his inner elements
 
 As a site visitor, I want to receive news from the website
 
+
 ## 3. User Story: news
 
 As a site visitor, I want to receive news from the website
+
+
 
 
 ### Branches
@@ -87,6 +90,7 @@ As a site visitor, I want to receive news from the website
 
     form inside section element 
     with input type email and button
+    
 ### CSS
 
 Styling for the new elements
@@ -144,7 +148,7 @@ Styling for the new elements
 
 ---
 
-=======
+
 
 ## 6. User Story: about
 
@@ -220,7 +224,7 @@ As a site visitor, I want to open this website in different devices
 
 
 ## Branches
-=======
+
 ### Branches
 
 
