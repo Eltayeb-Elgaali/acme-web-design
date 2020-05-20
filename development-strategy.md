@@ -26,7 +26,8 @@ __A User can see my initial repository and live demo__
 ## 1. User Story: Title
 
 As a site visitor, I want to know what the web page is called
-Branches
+
+### Branches
 
     This user story was developed on a brach called header-navbar.
     It was merged to master when the feature was finished.
@@ -43,7 +44,11 @@ Branches
     
 ---
 
-### 2. User Story: overview
+
+
+
+## 2. User Story: overview
+
 
 As a site visitor, I want to have an overview about this web page
 
@@ -61,11 +66,18 @@ As a site visitor, I want to have an overview about this web page
 
 Styling for the section element and his inner elements
 
+
 ---
 
 ## 3. User Story: news
 
 As a site visitor, I want to receive news from the website
+
+## 3. User Story: news
+
+As a site visitor, I want to receive news from the website
+
+
 ### Branches
 
     This user story was developed on a brach called newsletter
@@ -79,7 +91,13 @@ As a site visitor, I want to receive news from the website
 
 Styling for the new elements
 
+
 ---
+
+## 4. User Story: services
+
+As a site visitor, I want to know what services and technologies are available through the website
+
 
 ## 4. User Story: services
 
@@ -98,11 +116,17 @@ As a site visitor, I want to know what services and technologies are available t
 
 Styling for the new elements
 
+
 ---
 
 ## 5. User Story: footer
 
 As a site visitor, I want to know if the website is protected by copy right
+
+
+## 5. User Story: footer
+
+As a site visitor, I want to know if the website is protected by copy write
 
 ### Branches
 
@@ -117,16 +141,24 @@ As a site visitor, I want to know if the website is protected by copy right
 
 Styling for the new elements
 
+
 ---
+
+=======
 
 ## 6. User Story: about
 
 As a site visitor, I want to know in details what this website about
 
+
 ## Branches
+
+### Branches
+
 
     This user story was developed on a brach called about-page
     It was merged to master when the feature was finished.
+
 
 ## HTML
 
@@ -144,8 +176,23 @@ As a site visitor, I want to know in details services available through the webs
 
 ## Branches
 
+### HTML
+
+    section, paragraph, article and footer elements 
+
+### CSS
+
+Styling for the new elements
+
+## 7. User Story: services
+
+As a site visitor, I want to know in details services available through the website
+### Branches
+
+
     This user story was developed on a brach called services-page
     It was merged to master when the feature was finished.
+
 
 ## HTML
 
@@ -157,20 +204,42 @@ Styling for the new elements
 
 ---
 
+
+### HTML
+
+    section, paragraph, article and footer elements 
+
+### CSS
+
+Styling for the new elements
+
+
 ## 8. User Story: responsive layout
 
 As a site visitor, I want to open this website in different devices
 
+
 ## Branches
+=======
+### Branches
+
 
     This user story was developed on a brach called responsive-styling
     It was merged to master when the feature was finished.
+
 
 ## HTML
 
     NA
 
 ## CSS
+
+### HTML
+
+    NA
+
+### CSS
+
 
     add media query styling
 
