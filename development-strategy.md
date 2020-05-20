@@ -23,7 +23,7 @@ __A User can see my initial repository and live demo__
 
 ---
 
-1. User Story: Title
+## 1. User Story: Title
 
 As a site visitor, I want to know what the web page is called
 Branches
@@ -31,129 +31,149 @@ Branches
     This user story was developed on a brach called header-navbar.
     It was merged to master when the feature was finished.
 
-HTML
+### HTML
 
     A header element with a title describing the web page
     A navbar contain unordered list with 3 links
 
-CSS
+### CSS
 
     Layout styling for the body,container, header & navbar
     Text styling for the main title
+    
+---
 
-    2. User Story: overview
+### 2. User Story: overview
 
 As a site visitor, I want to have an overview about this web page
-Branches
+
+### Branches
 
     This user story was developed on a brach called showcase
     It was merged to master when the feature was finished.
 
-HTML
+### HTML
 
     add section element
     paragraph to give overview to the user and what attractive services available
 
-CSS
+### CSS
 
 Styling for the section element and his inner elements
 
-3. User Story: news
+---
+
+## 3. User Story: news
 
 As a site visitor, I want to receive news from the website
-Branches
+### Branches
 
     This user story was developed on a brach called newsletter
     It was merged to master when the feature was finished.
 
-HTML
+### HTML
 
     form inside section element 
     with input type email and button
-CSS
+### CSS
 
 Styling for the new elements
 
-4. User Story: services
+---
+
+## 4. User Story: services
 
 As a site visitor, I want to know what services and technologies are available through the website
-Branches
+
+### Branches
 
     This user story was developed on a brach called boxes
     It was merged to master when the feature was finished.
 
-HTML
+### HTML
 
     section element contain 3 boxes each contain heading, image and paragraph
 
-CSS
+### CSS
 
 Styling for the new elements
 
-5. User Story: footer
+---
 
-As a site visitor, I want to know if the website is protected by copy write
-Branches
+## 5. User Story: footer
+
+As a site visitor, I want to know if the website is protected by copy right
+
+### Branches
 
     This user story was developed on a brach called footer
     It was merged to master when the feature was finished.
 
-HTML
+### HTML
 
     footer element contain  paragraph with copy write
 
-CSS
+### CSS
 
 Styling for the new elements
 
-6. User Story: about
+---
+
+## 6. User Story: about
 
 As a site visitor, I want to know in details what this website about
-Branches
+
+## Branches
 
     This user story was developed on a brach called about-page
     It was merged to master when the feature was finished.
 
-HTML
+## HTML
 
     section, paragraph, article and footer elements 
 
-CSS
+## CSS
 
 Styling for the new elements
 
-7. User Story: services
+---
+
+## 7. User Story: services
 
 As a site visitor, I want to know in details services available through the website
-Branches
+
+## Branches
 
     This user story was developed on a brach called services-page
     It was merged to master when the feature was finished.
 
-HTML
+## HTML
 
     section, paragraph, article and footer elements 
 
-CSS
+## CSS
 
 Styling for the new elements
 
-8. User Story: responsive layout
+---
+
+## 8. User Story: responsive layout
 
 As a site visitor, I want to open this website in different devices
-Branches
+
+## Branches
 
     This user story was developed on a brach called responsive-styling
     It was merged to master when the feature was finished.
 
-HTML
+## HTML
 
     NA
 
-CSS
+## CSS
 
     add media query styling
 
-9. Finishing Touches
+## 9. Finishing Touches
 
     i wrote  README using template from https://bulldogjob.com
