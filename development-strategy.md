@@ -43,3 +43,20 @@ CSS
 
     Layout styling for the body,container, header & navbar
     Text styling for the main title
+
+    2. User Story: overview
+
+As a site visitor, I want to have an overview about this web page
+Branches
+
+    This user story was developed on a brach called showcase
+    It was merged to master when the feature was finished.
+
+HTML
+
+    add section element
+    paragraph to give overview to the user and what attractive services available
+
+CSS
+
+Styling for the section element and his inner elements
