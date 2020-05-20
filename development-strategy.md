@@ -140,3 +140,19 @@ HTML
 CSS
 
 Styling for the new elements
+
+8. User Story: responsive layout
+
+As a site visitor, I want to open this website in different devices
+Branches
+
+    This user story was developed on a brach called responsive-styling
+    It was merged to master when the feature was finished.
+
+HTML
+
+   NA
+
+CSS
+
+add media query styling
