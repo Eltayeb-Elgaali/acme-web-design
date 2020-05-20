@@ -1,53 +1,27 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme-web-design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- This is a HTML 5 responsive fictional website for a fictional web design company called Acme Web Design
+- This project is addressed for the absolute beginners.
+- This project considered a good opportunity not only to build responsive web pages using HTML5 & CSS3, but to also to  Learn the discipline it takes to plan ahead, break your project into small steps, and finish one step completely before moving on to the next.
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./wireframe.gif)
 
 ## 0. Set-Up
 
 __A User can see my initial repository and live demo__
 
-### Repo
+### Branch
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+1. Created a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this template](https://github.com/hackyourfuturebelgium/w3-validation-template)
+1. Clone the repository
+1. Copy-paste the markdown from this file to the empty `development-strategy.md` file in the new repo
+1. Add [this wireframe](./wireframe.gif) into your new repo
+1. Start your README file
+1. Push the changes
+1. turn on GitHub Pages
 
-## 1. __
-
-__full user story description__
-
-### Repo
-
-what branch(es) did you work on?
-
-### HTML
-
-what did you change in the HTML and why?
-
-### CSS
-
-what did you change in the CSS and why?
-
-## 2. ...
-
-...
-
-...
-
-## Finishing Touches
-
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+---
