@@ -6,9 +6,6 @@
 - This project is addressed for the absolute beginners.
 - This project considered a good opportunity not only to build responsive web pages using HTML5 & CSS3, but to also to  Learn the discipline it takes to plan ahead, break your project into small steps, and finish one step completely before moving on to the next.
 
-## Wireframe
-
-![wireframe](./wireframe.gif)
 
 ## 0. Set-Up
 
@@ -151,8 +148,12 @@ Branches
 
 HTML
 
-   NA
+    NA
 
 CSS
 
-add media query styling
+    add media query styling
+
+9. Finishing Touches
+
+    i wrote  README using template from https://bulldogjob.com
