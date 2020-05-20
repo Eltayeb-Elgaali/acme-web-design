@@ -103,7 +103,7 @@ Branches
 
 HTML
 
-    section element contain  paragraph with copy write
+    footer element contain  paragraph with copy write
 
 CSS
 
