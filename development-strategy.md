@@ -108,3 +108,19 @@ HTML
 CSS
 
 Styling for the new elements
+
+6. User Story: footer
+
+As a site visitor, I want to know in details what this website about
+Branches
+
+    This user story was developed on a brach called about-page
+    It was merged to master when the feature was finished.
+
+HTML
+
+    section, paragraph, article and footer elements 
+
+CSS
+
+Styling for the new elements
