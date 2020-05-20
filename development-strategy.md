@@ -25,3 +25,21 @@ __A User can see my initial repository and live demo__
 1. turn on GitHub Pages
 
 ---
+
+1. User Story: Title
+
+As a site visitor, I want to know what the web page is called
+Branches
+
+    This user story was developed on a brach called header-navbar.
+    It was merged to master when the feature was finished.
+
+HTML
+
+    A header element with a title describing the web page
+    A navbar contain unordered list with 3 links
+
+CSS
+
+    Layout styling for the body,container, header & navbar
+    Text styling for the main title
